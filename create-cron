@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "$CRON_SYNCREPO  root echo teste >> /var/log/test.log" > /etc/crontab
